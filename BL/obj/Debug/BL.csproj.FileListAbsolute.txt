@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\myp\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\user\source\repos\myp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\myp\BL\bin\Debug\TestsDBnew.mdf
+C:\Users\user\source\repos\myp\BL\bin\Debug\TestsDBnew_log.ldf
+C:\Users\user\source\repos\myp\BL\bin\Debug\BL.dll.config
+C:\Users\user\source\repos\myp\BL\bin\Debug\BL.dll
+C:\Users\user\source\repos\myp\BL\bin\Debug\BL.pdb
+C:\Users\user\source\repos\myp\BL\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\myp\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\myp\BL\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\myp\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\myp\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user\source\repos\myp\BL\obj\Debug\BL.dll
+C:\Users\user\source\repos\myp\BL\obj\Debug\BL.pdb
